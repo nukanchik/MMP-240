@@ -1,0 +1,23 @@
+*{text-decoration: none;
+}
+body { background-color: #000;
+       color: #fff;
+font-family: Arial;
+text-decoration: none;}
+
+h1 { font-family: bebas , regular ;}
+
+
+#nav {display: inline-block;
+    margin-left: 70em;
+    padding-bottom: 1em;
+   }
+
+
+p { text-align: center;
+    background-color: #2f2f2f;
+    height: 10em;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.5em;}
+        
